@@ -1,5 +1,7 @@
-web.client.live
-web.client.local
-web.server
-*.swp
-*~
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
